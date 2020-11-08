@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.11.8)  8 NOV 2020 14:18
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.10) (format=lualatex 2020.11.8)  8 NOV 2020 14:27
  restricted system commands enabled.
  file:line:error style messages enabled.
 **f:/_BKPProjects/Repos/CV/CV/cv.tex
@@ -935,35 +935,36 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip81
 )
 luaotfload | aux : font no 54 (nil) defines no feature for script latn
-luaotfload | aux : font no 59 (nil) defines no feature for script latn)
+luaotfload | aux : font no 59 (nil) defines no feature for script latn) (f:/_BK
+PProjects/Repos/CV/CV/sections/info.tex)
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 3.
- (f:/_BKPProjects/Repos/CV/CV/cv.aux)
+(Font)              scaled to size 10.0pt on input line 5.
+
+(f:/_BKPProjects/Repos/CV/CV/cv.aux)
 \openout1 = cv.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-
-ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 5.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1022,59 +1023,59 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 5.
 )
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 3.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 3.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 3.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 3.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 5.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 3.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 5.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 3.
+(Font)              `operators' in the math version `normal' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input 
-line 3.
+line 5.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 3.
+(Font)              `operators' in the math version `bold' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input
- line 3.
+ line 5.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 3.
+(Font)              `symbols' in the math version `normal' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input
- line 3.
+ line 5.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 3.
+(Font)              `symbols' in the math version `bold' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input
- line 3.
+ line 5.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 3.
+(Font)              `largesymbols' in the math version `normal' on input line 5.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input
- line 3.
+ line 5.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 3.
+(Font)              `largesymbols' in the math version `bold' on input line 5.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input
- line 3.
+ line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 3.
+(Font)              scaled to size 10.00107pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 3.
+(Font)              scaled to size 7.00075pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 3.
+(Font)              scaled to size 5.00053pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 3.
+(Font)              scaled to size 9.99893pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 3.
+(Font)              scaled to size 6.99925pt on input line 5.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 3.
-Package hyperref Info: Link coloring OFF on input line 3.
+(Font)              scaled to size 4.99947pt on input line 5.
+Package hyperref Info: Link coloring OFF on input line 5.
 
 (C:/Users/MZare47/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1088,33 +1089,49 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count322
 )
-LaTeX Info: Redefining \ref on input line 3.
-LaTeX Info: Redefining \pageref on input line 3.
-LaTeX Info: Redefining \nameref on input line 3.
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
  (f:/_BKPProjects/Repos/CV/CV/cv.out)
 (f:/_BKPProjects/Repos/CV/CV/cv.out)
 \@outlinefile=\write6
 
 \openout6 = cv.out
- (f:/_BKPProjects/Repos/CV/CV/cv.aux)
+\headertextwidth=\skip82
+\headerphotowidth=\skip83
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 7.6pt on input line 8.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sc' will be
+(Font)              scaled to size 7.6pt on input line 8.
+
+Overfull \hbox (1.33333pt too wide) in paragraph at lines 8--8
+[]$[]$ $[]$$[]$ 
+ []
+
+[1
+
+{C:/Users/MZare47/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(f:/_BKPProjects/Repos/CV/CV/cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 32809 strings out of 479017
+ 32831 strings out of 479017
  125086,1144653 words of node,token memory allocated
- 653 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 10 attribute, 79 glue_spec
-, 10 attribute_list, 3 write, 1 pdf_dest, 1 pdf_colorstack nodes
-   avail lists: 1:1,2:18,3:1,4:1,5:9,6:1,7:1,9:2
- 51206 multiletter control sequences out of 65536+200000
- 78 fonts using 23014771 bytes
- 121i,1n,117p,567b,268s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 636 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 81 glue_spec,
+ 7 attribute_list, 2 write nodes
+   avail lists: 1:1,2:162,3:33,4:27,5:60,6:23,7:471,8:13,9:112,10:14,11:17
+ 51217 multiletter control sequences out of 65536+200000
+ 84 fonts using 24319963 bytes
+ 121i,11n,117p,567b,337s stack positions out of 5000i,500n,10000p,200000b,50000s
+<./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><//?/c:/users/mzare47/appda
+ta/local/programs/miktex/fonts/opentype/adobe/sourcesanspro/sourcesanspro-regula
+r.otf><./fonts/Roboto-Bold.ttf>
+Output written on cv.pdf (1 page, 21154 bytes).
 
-warning  (pdf backend): no pages of output.
-
-PDF statistics: 5 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 131072)
+PDF statistics: 46 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
