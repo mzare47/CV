@@ -788,6 +788,10 @@ INPUT f:\_BKPProjects\Repos\CV\CV\cv.out
 INPUT f:\_BKPProjects\Repos\CV\CV\cv.out
 OUTPUT f:\_BKPProjects\Repos\CV\CV\cv.out
 OUTPUT f:\_BKPProjects\Repos\CV\CV\cv.pdf
+INPUT f:\_BKPProjects\Repos\CV\CV\sections\skills.tex
+INPUT f:\_BKPProjects\Repos\CV\CV\sections\skills.tex
+INPUT f:\_BKPProjects\Repos\CV\CV\sections\skills.tex
+INPUT f:\_BKPProjects\Repos\CV\CV\sections\skills.tex
 INPUT C:\Users\MZare47\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT f:\_BKPProjects\Repos\CV\CV\cv.aux
 INPUT f:\_BKPProjects\Repos\CV\CV\cv.aux
