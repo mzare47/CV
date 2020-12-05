@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1607186177 "e:/_ProjectBKPs/Repos/CV/cv.tex" "e:/_ProjectBKPs/Repos/CV/cv.pdf" "cv" 1607186434
+["lualatex"] 1607186177 "e:/_ProjectBKPs/Repos/CV/cv.tex" "e:/_ProjectBKPs/Repos/CV/cv.pdf" "cv" 1607192503
   "C:/Users/Msi/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/fontawesome.luc" 1605124369 54720 d240210e3c04bcc269fb32ad581cd53e ""
   "C:/Users/Msi/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/latinmodern-math.luc" 1605123203 544978 919126bbec1b949ba239f1c76c2e73c7 ""
   "C:/Users/Msi/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1605122427 124243 43ba2ec535f13219d1ba15453bd66125 ""
@@ -245,11 +245,11 @@
   "sections/info.tex" 1607185093 547 780cf44160ffcd24b51f2770ad384c57 ""
   "sections/skills.tex" 1607185001 1173 45c658eadeb3039d158461fc6769175e ""
   (generated)
-  "e:/_ProjectBKPs/Repos/CV/cv.pdf"
-  "e:/_ProjectBKPs/Repos/CV/cv.log"
-  "cv.aux"
+  "cv.out"
   "cv.pdf"
   "cv.log"
-  "C:/Users/Msi/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.lua"
-  "cv.out"
+  "cv.aux"
+  "e:/_ProjectBKPs/Repos/CV/cv.log"
   "C:/Users/Msi/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc"
+  "e:/_ProjectBKPs/Repos/CV/cv.pdf"
+  "C:/Users/Msi/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.lua"
